@@ -23,3 +23,13 @@ You can use **[Google Collab](https://colab.research.google.com/)** (a simple on
 To work on the assignments in your local machine, make sure you have completed these steps
 * Create a **[conda environment](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)**
 * Setup **[Pycharm project](https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61)** (using the conda environment)
+
+### Recommended Schedule
+
+| Week | Concepts | Exercises|
+|------|----------|-----------|
+| Week 1 | Basics and Strings | [list1.py](exercises/list1.py),[string1.py](exercises/string1.py),[string2.py](exercises/string2.py)|
+| Week 2 | List, Tuples, Set,Dict and Files | [wordcount.py](exercises/wordcount.py)
+| Week 3 | Regex, Utils (os, path, subprocess), Exceptions | exercises inline in the notebook|
+| Week 4 | Object Oriented Programming | exercises inline in the notebook|
+|Week 5 | Advaced Python | exercises inline in the notebook|
